@@ -1,0 +1,19 @@
+img {
+  width: 35rem;
+  height: 30rem;
+  border-radius: 1rem;
+  transition: transform 0.2 ease-in-out;
+}
+
+img:hover {
+  transform: scale(1.5);
+}
+
+div {
+  display: block;
+  color: beige;
+}
+
+.container {
+  display: block;
+}
