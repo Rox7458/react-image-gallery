@@ -5,15 +5,15 @@ const data = [
   },
   {
     img: "10.jpg",
-    name: "dam structure",
+    name: "head of the castle",
   },
   {
     img: "8.jpg",
-    name: "stone stair",
+    name: "lake",
   },
   {
     img: "4.jpg",
-    name: "stone stair",
+    name: "head of the castle",
   },
   {
     img: "5.jpg",
@@ -29,15 +29,15 @@ const data = [
   },
   {
     img: "3.jpg",
-    name: "dam lake",
+    name: "stone stair",
   },
   {
     img: "1.jpg",
-    name: "on the top of the castle",
+    name: "lake",
   },
   {
     img: "2.jpg",
-    name: "dam lake",
+    name: "structure",
   },
 ];
 

@@ -1,19 +1,37 @@
 img {
-  width: 35rem;
+  width: 40rem;
   height: 30rem;
   border-radius: 1rem;
   transition: transform 0.2 ease-in-out;
 }
 
 img:hover {
-  transform: scale(1.5);
+  -webkit-animation: zoomin 3s 1;
 }
 
-div {
-  display: block;
-  color: beige;
+@-webkit-keyframes zoomin {
+  0% {
+    -webkit-transform: scale(1);
+  }
+  100% {
+    -webkit-transform: scale(1.2);
+  }
 }
 
 .container {
   display: block;
+  color: beige;
+}
+
+p {
+  font-size: 1.3rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+@media only screen and (max-width: 1080px) {
+  img {
+    width: 900px;
+    height: 700px;
+    flex-wrap: wrap;
+  }
 }
