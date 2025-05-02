@@ -1,44 +1,44 @@
 const data = [
   {
-    img: "9.jpg",
-    name: "head of the castle",
-  },
-  {
-    img: "10.jpg",
-    name: "head of the castle",
-  },
-  {
-    img: "8.jpg",
-    name: "lake",
-  },
-  {
-    img: "4.jpg",
-    name: "head of the castle",
-  },
-  {
-    img: "5.jpg",
-    name: "head of the castle",
-  },
-  {
-    img: "6.jpg",
-    name: "head of the castle",
-  },
-  {
-    img: "7.jpg",
-    name: "ancient ruin",
-  },
-  {
-    img: "3.jpg",
-    name: "stone stair",
-  },
-  {
     img: "1.jpg",
-    name: "lake",
+    name: "Lucía Montenegro ",
   },
   {
     img: "2.jpg",
-    name: "structure",
+    name: "Veronika Bykovich ",
+  },
+  {
+    img: "3.jpg",
+    name: "lἐμμανυελ",
+  },
+  {
+    img: "4.jpg",
+    name: "Eugene Golovesov",
+  },
+  {
+    img: "5.jpg",
+    name: "Enrique Hoyos ",
+  },
+  {
+    img: "6.jpg",
+    name: "Leah Kelley ",
+  },
+  {
+    img: "7.jpg",
+    name: "Alyona Pastukhova",
+  },
+  {
+    img: "8.jpg",
+    name: "Rizky Sabriansyah",
+  },
+  {
+    img: "9.jpg",
+    name: "Eugene Golovesov",
+  },
+  {
+    img: "10.jpg",
+    name: "Poyee Tsangs",
   },
 ];
 
-export default data
+export default data;

@@ -1,6 +1,6 @@
 # Image Gallery Website
 
-The project especially has been made using images of my village and presents real historical relics then how they has been destroyed by a electric company.
+The project basicly presents images by using REACT.
 
 ## Project Overview
 
